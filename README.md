@@ -11,4 +11,4 @@ En el problema tres, se desarrolla un algoritmo para realizar la conversión de 
 
 Para el problema cuatro, se plantea un algoritmo que calcule el coste total de n productos más el adicional correspondiente proveniente del IVA. Se recibe solamente el valor del producto y un valor que puede ser 1 ó 0 para confirmar si se facturan más productos (1 significa sí, 0 no), al final se imprime el valor total de la compra, el valor de la compra antes del IVA y el valor correspondiente al IVA.
 
-La implementación de todos los programas es realizada en Python y se encuentra según su número de ejercicio (ejercicio1.py, ejercicio2.py...)
+Los archivos se encuentran disponibles en lenguaje Python con la ennumeración respectiva (ejercicio1.py, ejercicio2.py...)

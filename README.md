@@ -1,5 +1,5 @@
 # Control-Versiones
-*Taller LaTex y control de versiones
+Taller LaTex y control de versiones
 
 Para esta actividad se busca dar solución a algunos ejercicios previamente planteados, los cuales se detallan a continuación:
 
